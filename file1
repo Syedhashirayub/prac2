@@ -2,4 +2,8 @@ this is test file
 this is z
 this is b
 this is c
+<<<<<<< HEAD
 this is merge conflict
+=======
+this is merge conflict
+>>>>>>> 2e921685c0c8318e34061501e02ff87548f1b987
